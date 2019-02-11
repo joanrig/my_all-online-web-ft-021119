@@ -14,7 +14,7 @@ end
 #   block_return_values = []
 #   while i < collection.length 
 #     block_return_values << yield(collection[i])
-#     i += 1
+#     i = i+1
 #   end
 # end
 
